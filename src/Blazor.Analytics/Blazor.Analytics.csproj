@@ -20,19 +20,19 @@
     <IncludeContentInPack>false</IncludeContentInPack>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Authors>isc30</Authors>
-    <Company>CodeIsc</Company>
-    <PackageId>Blazor-Analytics</PackageId>
-    <Product>Blazor Analytics</Product>
+    <Authors>minhhieugma</Authors>
+    <Company>minhhieugma</Company>
+    <PackageId>Blazor-Google-Analytics</PackageId>
+    <Product>Blazor Analytics - Folked from isc30</Product>
     <Title>Blazor Analytics</Title>
     <Description>
       Blazor extensions for Analytics.
-      Supported platforms: Google Analytics, GTAG, ...
+      Supported platforms: Google Analytics, GTAG, Google Tag Manager, ...
     </Description>
-    <PackageTags>blazor google analytics gtag extensions razor components</PackageTags>
-    <RepositoryUrl>https://github.com/isc30/blazor-analytics</RepositoryUrl>
+    <PackageTags>blazor google analytics tag manager gtag extensions razor components</PackageTags>
+    <RepositoryUrl>https://github.com/minhhieugma/blazor-google-analytics</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.0.10</Version>
+    <Version>1.0.0</Version>
     <RepositoryType>git</RepositoryType>
     <Copyright>Ivan Sanz Carasa (isc30)</Copyright>
   </PropertyGroup>
