@@ -1,13 +1,13 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "noEmitOnError": true,
     "removeComments": true,
     "sourceMap": false,
     "target": "es5",
     "module": "none",
-    "outFile": "wwwroot/blazor-analytics.js"
+    "outFile": "wwwroot/interop.js"
   },
   "exclude": [
     "node_modules"

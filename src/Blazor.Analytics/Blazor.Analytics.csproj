@@ -32,7 +32,7 @@
     <PackageTags>blazor google analytics tag manager gtag extensions razor components</PackageTags>
     <RepositoryUrl>https://github.com/minhhieugma/blazor-google-analytics</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <RepositoryType>git</RepositoryType>
     <Copyright>Ivan Sanz Carasa (isc30)</Copyright>
   </PropertyGroup>
